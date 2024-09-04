@@ -1,0 +1,11 @@
+{
+    "GridSizeX": 2,
+    "GridSizeY": 2,
+    "CellPaddingX": 0,
+    "CellPaddingY": 0,
+    "LayerConfigurations": [
+        ["bg1", "bg1", "bg2", "bg2"],
+        ["m1", "m2", "m2", "m1"],
+        ["c1", "c2", "c1", "c2"]
+    ]
+}

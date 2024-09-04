@@ -1,0 +1,274 @@
+{
+    "Configuration": {
+        "GridSizeX": 6,
+        "GridSizeY": 5,
+        "CellPaddingX": 0,
+        "CellPaddingY": 0,
+        "TilePacks": [
+            {
+                "PackName": "ExamplePack3Layer",
+                "BackgroundConfigurations": [
+                    "Sprites/TileSet1/TileImage/BoardTile1",
+                    "Sprites/TileSet1/TileImage/BoardTile2"
+                ],
+                "TileConfigurations": [
+                    {
+                        "Offsets": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "AnchorMin": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "AnchorMax": {
+                            "x": 1,
+                            "y": 1
+                        },
+                        "AnchoredPosition": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "SizeDelta": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "Pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "SpriteSettings": [
+                            {
+                                "Ref": "bg1",
+                                "AssetPath": "Sprites/TileSet1/BackGround/bg1",
+                                "DistributionSettings": {
+                                    "EnforceMinCap": -1,
+                                    "EnforceMaxCap": -1
+                                },
+                                "AugmentationSettings": [
+                                    
+                                ]
+                            },
+                            {
+                                "Ref": "bg2",
+                                "AssetPath": "Sprites/TileSet1/BackGround/bg2",
+                                "DistributionSettings": {
+                                    "EnforceMinCap": -1,
+                                    "EnforceMaxCap": -1
+                                },
+                                "AugmentationSettings": [
+
+                                ]
+                            },
+                            {
+                                "Ref": "bg3",
+                                "AssetPath": "Sprites/TileSet1/BackGround/bg3",
+                                "DistributionSettings": {
+                                    "EnforceMinCap": -1,
+                                    "EnforceMaxCap": -1
+                                },
+                                "AugmentationSettings": [
+
+                                ]
+                            },
+                            {
+                                "Ref": "bg4",
+                                "AssetPath": "Sprites/TileSet1/BackGround/bg4",
+                                "DistributionSettings": {
+                                    "EnforceMinCap": -1,
+                                    "EnforceMaxCap": -1
+                                },
+                                "AugmentationSettings": [
+                                    {
+                                        "RotationAngle": 90,
+                                        "DistributionSettings": {
+                                            "EnforceMinCap": -1,
+                                            "EnforceMaxCap": -1
+                                        }  
+                                    }
+                                ]
+                            },
+                            {
+                                "Ref": "bg5",
+                                "AssetPath": "Sprites/TileSet1/BackGround/bg5",
+                                "DistributionSettings": {
+                                    "EnforceMinCap": -1,
+                                    "EnforceMaxCap": -1
+                                },
+                                "AugmentationSettings": [
+
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Offsets": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "AnchorMin": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "AnchorMax": {
+                            "x": 1,
+                            "y": 1
+                        },
+                        "AnchoredPosition": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "SizeDelta": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "Pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "SpriteSettings": [
+                            {
+                                "Ref": "m1",
+                                "AssetPath" : "Sprites/TileSet1/Middle/Middle1",
+                                "DistributionSettings": {
+                                    "EnforceMinCap": -1,
+                                    "EnforceMaxCap": -1
+                                },
+                                "AugmentationSettings": [
+
+                                ]
+                            },
+                            {
+                                "Ref": "m2",
+                                "AssetPath" : "Sprites/TileSet1/Middle/Middle2",
+                                "DistributionSettings": {
+                                    "EnforceMinCap": -1,
+                                    "EnforceMaxCap": -1
+                                },
+                                "AugmentationSettings": [
+
+                                ]
+                            },
+                            {
+                                "Ref": "m3",
+                                "AssetPath" : "Sprites/TileSet1/Middle/Middle3",
+                                "DistributionSettings": {
+                                    "EnforceMinCap": -1,
+                                    "EnforceMaxCap": -1
+                                },
+                                "AugmentationSettings": [
+
+                                ]
+                            },
+                            {
+                                "Ref": "m4",
+                                "AssetPath" : "Sprites/TileSet1/Middle/Middle4",
+                                "DistributionSettings": {
+                                    "EnforceMinCap": -1,
+                                    "EnforceMaxCap": -1
+                                },
+                                "AugmentationSettings": [
+
+                                ]
+                            },
+                            {
+                                "Ref": "m5",
+                                "AssetPath" : "Sprites/TileSet1/Middle/Middle5",
+                                "DistributionSettings": {
+                                    "EnforceMinCap": -1,
+                                    "EnforceMaxCap": -1
+                                },
+                                "AugmentationSettings": [
+
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Offsets": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "AnchorMin": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "AnchorMax": {
+                            "x": 1,
+                            "y": 1
+                        },
+                        "AnchoredPosition": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "SizeDelta": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "Pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "SpriteSettings": [
+                            {
+                                "Ref": "c1",
+                                "AssetPath" : "Sprites/TileSet1/Center/Center1",
+                                "DistributionSettings": {
+                                    "EnforceMinCap": -1,
+                                    "EnforceMaxCap": -1
+                                },
+                                "AugmentationSettings": [
+
+                                ]
+                            },
+                            {
+                                "Ref": "c2",
+                                "AssetPath" : "Sprites/TileSet1/Center/Center2",
+                                "DistributionSettings": {
+                                    "EnforceMinCap": -1,
+                                    "EnforceMaxCap": -1
+                                },
+                                "AugmentationSettings": [
+
+                                ]
+                            },
+                            {
+                                "Ref": "c3",
+                                "AssetPath" : "Sprites/TileSet1/Center/Center3",
+                                "DistributionSettings": {
+                                    "EnforceMinCap": -1,
+                                    "EnforceMaxCap": -1
+                                },
+                                "AugmentationSettings": [
+
+                                ]
+                            },
+                            {
+                                "Ref": "c4",
+                                "AssetPath" : "Sprites/TileSet1/Center/Center4",
+                                "DistributionSettings": {
+                                    "EnforceMinCap": -1,
+                                    "EnforceMaxCap": -1
+                                },
+                                "AugmentationSettings": [
+
+                                ]
+                            },
+                            {
+                                "Ref": "c5",
+                                "AssetPath" : "Sprites/TileSet1/Center/Center5",
+                                "DistributionSettings": {
+                                    "EnforceMinCap": -1,
+                                    "EnforceMaxCap": -1
+                                },
+                                "AugmentationSettings": [
+
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
